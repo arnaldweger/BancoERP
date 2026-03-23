@@ -33,15 +33,15 @@ Acesse em http://localhost:8501
 
 📁 Estrutura do projeto
 BancoERP/
-├── app.py                  # Interface Streamlit (ponto de entrada)
-├── conciliacao.py          # Lógica de cruzamento de dados
-├── utils/
-│   ├── leitura_banco.py    # Leitura e padronização do extrato bancário
-│   └── leitura_erp.py      # Leitura e padronização do relatório ERP
-├── data/
-│   └── exemplos/           # Arquivos de exemplo para testes
-├── requirements.txt
-└── README.md
+  app.py                  # Interface Streamlit (ponto de entrada)
+  conciliacao.py          # Lógica de cruzamento de dados
+utils/
+  leitura_banco.py    # Leitura e padronização do extrato bancário
+  leitura_erp.py      # Leitura e padronização do relatório ERP
+data/
+  exemplos/           # Arquivos de exemplo para testes
+requirements.txt
+README.md
 
 📸 Screenshots
 
